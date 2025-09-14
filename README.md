@@ -3,8 +3,8 @@
 
 QDocBERT is a smart document-based question answering platform that enables users to extract relevant insights from PDF documents using natural language queries. Built using BERT, it provides accurate, context-aware answers, empowering users across research, education, law, and healthcare.
 
-![Home Page](screenshots/home.png)
-![Query Page](screenshots/query.png)
+![Home Page](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image11.png)
+![Query Page](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image13.png)
 
 ---
 
@@ -75,17 +75,9 @@ python app.py
 
 | Sign Up | Sign In | Home | Query |
 |--------|---------|------|-------|
-| ![signup](screenshots/signup.png) | ![signin](screenshots/signin.png) | ![home](screenshots/home.png) | ![query](screenshots/query.png) |
+| ![signup](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image9.png) | ![signin](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image10.png) | ![home](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image11.png) | ![query](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image13.png) |
 
----
 
-## 🔒 Security Features
-
-- Passwords are hashed using MD5 (recommend migrating to SHA256 or bcrypt for production)
-- Email OTP for secure password reset
-- Role-based SQLite schema
-
----
 
 ## 📚 References
 
