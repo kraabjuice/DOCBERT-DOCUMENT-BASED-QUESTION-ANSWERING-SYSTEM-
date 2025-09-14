@@ -3,8 +3,8 @@
 
 QDocBERT is a smart document-based question answering platform that enables users to extract relevant insights from PDF documents using natural language queries. Built using BERT, it provides accurate, context-aware answers, empowering users across research, education, law, and healthcare.
 
-![Home Page](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image11.png)
-![Query Page](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image13.png)
+![Home Page](image11.png)
+![Query Page](image13.png)
 
 ---
 
