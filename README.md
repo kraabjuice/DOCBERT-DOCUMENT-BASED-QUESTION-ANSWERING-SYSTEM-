@@ -75,7 +75,7 @@ python app.py
 
 | Sign Up | Sign In | Home | Query |
 |--------|---------|------|-------|
-| ![signup](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image9.png) | ![signin](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image10.png) | ![home](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image11.png) | ![query](DOCBERT-DOCUMENT-BASED-QUESTION-ANSWERING-SYSTEM-/image13.png) |
+| ![signup](image9.png) | ![signin](image10.png) | ![home](image11.png) | ![query](image13.png) |![query](image14(1).png)
 
 
 
